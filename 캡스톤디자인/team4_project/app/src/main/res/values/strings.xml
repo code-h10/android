@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="title_home">토양</string>
+    <string name="title_dashboard">온도</string>
+    <string name="title_notifications">습도</string>
+
+</resources>
